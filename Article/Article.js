@@ -85,6 +85,15 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'Build Week Shenanigans',
+    date: 'Jan 21st, 2020',
+    firstParagraph: `Maecenas ac mauris accumsan, pellentesque nulla sit amet, accumsan nisl. Sed in lorem sit amet risus cursus rhoncus sit amet ut erat. Integer interdum imperdiet finibus. Praesent laoreet risus mauris, ut fringilla magna eleifend non. Nunc fermentum nisl eu mollis fringilla. Nulla tempor quis lacus id faucibus.`,
+
+    secondParagraph: `Nullam et risus ac neque posuere tristique nec ac erat. Ut lobortis diam nisi, eget elementum nisl fringilla ut. Quisque eget pulvinar elit, at aliquet massa. Nullam id dolor fermentum, mollis eros ac, porta justo.`,
+
+    thirdParagraph: `Nulla sit amet arcu sit amet tortor consectetur molestie id quis diam. Suspendisse congue venenatis velit, sit amet pretium leo aliquet sed. Phasellus pulvinar odio felis, id imperdiet lacus fringilla eget. Quisque finibus odio non erat ornare, quis commodo nibh congue.`
   }
 ];
 
