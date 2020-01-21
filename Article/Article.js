@@ -137,7 +137,7 @@ const createArticle = (title, date, firstP, secondP, thirdP) => {
   para1.textContent = firstP;
   para2.textContent = secondP;
   para3.textContent = thirdP;
-  expButton.textContent = '\u25c6';
+  expButton.textContent = '\u2b19';
 
   expButton.addEventListener('click', (event) => {
     article.classList.toggle('article-open');
